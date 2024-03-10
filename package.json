@@ -10,7 +10,10 @@
   "type": "git",
     "url": "git+https://github.com/Rauhou/0xTeas.git"
   },
-  "keywords": [],
+  "keywords": [
+    "web3",
+    "blockchain"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
