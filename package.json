@@ -1,0 +1,19 @@
+{
+  "name": "0xTeas",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+  "type": "git",
+    "url": "git+https://github.com/Rauhou/0xTeas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^v1.10.0"
+  }
+}
